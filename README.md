@@ -1,2 +1,2 @@
 # cursoCSharp
-Cruso
+Curso
